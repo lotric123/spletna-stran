@@ -1,0 +1,22 @@
+<pages>
+  <page>
+    <title>Domov</title>
+    <text>Dobrodošli na naši spletni strani!</text>
+    <links>
+      <link href="https://primer.si">Več informacij</link>
+    </links>
+    <images>
+      <image src="img/domov.jpg" alt="Domača slika"/>
+    </images>
+  </page>
+  <page>
+    <title>O nas</title>
+    <text>Smo ekipa navdušencev...</text>
+    <links>
+      <link href="https://o-nas.si">O nas</link>
+    </links>
+    <images>
+      <image src="img/onasi.jpg" alt="Ekipa"/>
+    </images>
+  </page>
+</pages>
